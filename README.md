@@ -66,3 +66,16 @@ echo > src/controller/.gitignore
 echo > src/model/.gitignore
 echo > src/view/.gitignore
 ```
+
+## Caso a configuração seja feita via script
+
+Remoção das pastas criadas anteriormente
+```bash
+rm -rf src
+```
+
+Criação da estrutura de pastas e arquivos em branco
+
+```bash
+rm -rf src
+```
