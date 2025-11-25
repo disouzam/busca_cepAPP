@@ -55,6 +55,14 @@ To run your project, navigate to the directory and run one of the following npm 
 - npm run web
 ```
 
+O comando para iniciar a aplicação pode ser também:
+
+```bash
+npx expo start -c
+```
+
+O parâmetro `-c` (ou `--clear`) limpa o cache do `bundler`.
+
 # Configuração das pastas para uso da arquitetura MVC
 
 ```bash
