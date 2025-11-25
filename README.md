@@ -9,7 +9,7 @@ Resumo das instruções do artigo [React Native Expo Installation in Windows 11]
 npm install expo-cli --global
 ```
 
-## Initialização do projeto
+## Inicialização do projeto
 
 ```bash
 npx expo start -c
