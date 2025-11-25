@@ -15,6 +15,8 @@ npm install expo-cli --global
 npx expo start -c
 ```
 
+O parâmetro `-c` (ou `--clear`) limpa o cache do `bundler`.
+
 ## No dispositivo mobile, efetuar o download do aplicativo Expo Go.
 
 Para Android: [Expo Go para Android](https://play.google.com/store/search?q=Expo%20go&c=apps&hl=pt_BR)
