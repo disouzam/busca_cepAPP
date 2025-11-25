@@ -59,11 +59,11 @@ To run your project, navigate to the directory and run one of the following npm 
 
 ```bash
 mkdir src
-mkdir src/controller
-mkdir src/model
+mkdir src/controllers
+mkdir src/models
 mkdir src/view
-echo > src/controller/.gitignore
-echo > src/model/.gitignore
+echo > src/controllers/.gitignore
+echo > src/models/.gitignore
 echo > src/view/.gitignore
 ```
 
@@ -77,5 +77,5 @@ rm -rf src
 Criação da estrutura de pastas e arquivos em branco
 
 ```bash
-rm -rf src
+node create-structure.js
 ```
