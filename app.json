@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "Busca CEP",
-    "slug": "busca_cepAPP",
+    "slug": "busca-cep-puc-minas-professor-fernando",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icons/adaptive_icon.png",
@@ -21,10 +21,17 @@
         "backgroundColor": "#ffffff"
       },
       "edgeToEdgeEnabled": true,
-      "predictiveBackGestureEnabled": false
+      "predictiveBackGestureEnabled": false,
+      "package": "com.disouzamreactnativeprojects.buscaceppucminasprofessorfernando"
     },
     "web": {
       "favicon": "./assets/icons/adaptive_icon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "c445c355-01e5-426c-81f3-90a77a4e6bb9"
+      }
+    },
+    "owner": "disouzam-react-native-projects"
   }
 }
