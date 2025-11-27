@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Text>Open up App.tsx to start working on your app!</Text>
+      <Text>Esse é o rascunho da aplicação de busca de CEP em sua versão 2, por Dickson Souza, baseada em versão do professor Fernando Manoel Pereira!</Text>
       <StatusBar style="auto" />
     </View>
   );
